@@ -1,5 +1,4 @@
-title: Ahmed Hamza 
-Logo: /assets/img/headshot_circle.png
-#desription: text below image
-show_downloads: true
-theme: jekyll-theme-minimal 
+title: Ahmed Hamza
+description: Political scientist studying ethnic politics, political parties and democratization
+show_downloads: false
+theme: jekyll-theme-minimal
